@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ab</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a>https://www.linkedin.com/in/ab-mahasnh-23672323a/</a></h3>
 <p align="left">
 </p>
 
