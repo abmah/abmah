@@ -10,9 +10,6 @@ I’m a full-stack developer who loves to create awesome looking websites!!
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
 
 
 </td><td valign="top" width="50%">
@@ -43,11 +40,11 @@ I’m a full-stack developer who loves to create awesome looking websites!!
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="left" width="50%">
 
 
 
-</td><td valign="top" width="50%">
+</td><td valign="left" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmah&hide_border=true&layout=compact" align="left" />
 
@@ -66,5 +63,4 @@ I’m a full-stack developer who loves to create awesome looking websites!!
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
