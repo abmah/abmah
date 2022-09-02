@@ -17,7 +17,7 @@ I’m a full-stack developer who loves to create awesome looking websites!!
 
 
 
-</td></tr></table>  
+
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -33,7 +33,7 @@ I’m a full-stack developer who loves to create awesome looking websites!!
 <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="25" /></a>  
 </div>  
 
-<br/>  
+
 
 
 
