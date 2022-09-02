@@ -39,28 +39,6 @@ I’m a full-stack developer who loves to create awesome looking websites!!
 <br/>  
 
 
-## Github Stats  
-<table><tr><td valign="left" width="50%">
 
-
-
-</td><td valign="left" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abmah&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-
