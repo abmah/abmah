@@ -3,9 +3,7 @@
 
 
 
-### Welcome to my Github  
-
-I love to create awesome looking websites!! 
+I love to create awesome looking things!! 
   
 
 <br/>  
