@@ -2,8 +2,3 @@
   
 
 I love to create awesome looking things!! 
-  
-
-<br/>  
-
-
